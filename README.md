@@ -18,3 +18,9 @@ How to frame the product goal in terms of ML?
 Is a ML solution feasable?
 - What kind of data is needed?
 - What exisitng models leverage this kind of data?
+
+### Models
+Classification and Regression
+Knowledge Extraction
+Catalog Organization
+Generative Models
