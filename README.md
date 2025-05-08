@@ -9,7 +9,7 @@ The following is a set of guideines for model development based on the following
 
 What is the product goal?
 - Can this be done using hueristics?
-- Is this solvable by another method?
+- Is this solvable by another simpler method?
 
 How to frame the product goal in terms of ML?
 - Product goal is a servic or result or product.
