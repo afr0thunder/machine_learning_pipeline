@@ -24,3 +24,19 @@ Classification and Regression
 Knowledge Extraction
 Catalog Organization
 Generative Models
+
+### Data
+What data is available?
+- Labeled data exists
+- Weakly Labeled data exists
+- Unlabeled data exisits
+- Need to aquire data
+
+### Being the Algorithm
+Take some time to 'be the algorithm' and work through individual examples on your own. Develop a set of features and hueristics to better understand what an algorithm might need to do.
+
+Summarize:
+* Dataset
+* Model
+* Latency
+* Ease of Implemenation
